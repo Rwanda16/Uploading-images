@@ -1,0 +1,10 @@
+body{
+    margin: 20px;
+}
+h1{
+    font-family: serif;
+}
+canvas{
+    height: 300px;
+    border: 1px solid red;
+}
